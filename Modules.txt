@@ -1,0 +1,6 @@
+pyzbar
+gtts
+cv2
+time
+pandas
+qrcode
