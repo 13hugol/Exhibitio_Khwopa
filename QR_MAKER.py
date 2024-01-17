@@ -20,7 +20,6 @@ def generate_qr_code(data, output_folder="qr_codes"):
 
 
 if __name__ == "__main__":
-    # Input file names
     input_file = "students.txt"
 
     # Read names from the file into a pandas DataFrame
