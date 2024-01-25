@@ -20,7 +20,7 @@ def generate_qr_code(data, output_folder="qr_codes"):
 
 
 if __name__ == "__main__":
-    input_file = "students.txt"
+    input_file = "https://docs.google.com/spreadsheets/d/1CUIb9mdxU3JBfSsQISRMuhih_YDBol9NfSD4fMX4rvI/edit?usp=sharing"
 
     # Read names from the file into a pandas DataFrame
     try:
