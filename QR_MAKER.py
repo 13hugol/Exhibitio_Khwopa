@@ -20,7 +20,7 @@ def generate_qr_code(data, output_folder="qr_codes"):
 
 
 if __name__ == "__main__":
-    input_file = "https://docs.google.com/spreadsheets/d/1CUIb9mdxU3JBfSsQISRMuhih_YDBol9NfSD4fMX4rvI/edit?usp=sharing"
+    input_file = "https://gist.githubusercontent.com/BhugolGautam222/76cbd98631174441abac59ee26526282/raw/1a4f23b0a5ffded2e3610dc0ff7cf6ae5ba32300/gistfile1.txt"
 
     # Read names from the file into a pandas DataFrame
     try:
